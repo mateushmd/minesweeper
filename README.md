@@ -1,3 +1,3 @@
 # Minesweeper
 
-Simple Minesweeper project in rust
+A graphical implementation of Minesweeper in Rust because why not?
